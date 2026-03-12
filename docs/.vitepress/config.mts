@@ -26,7 +26,8 @@ export default defineConfig({
         {
           text: '文章列表',
           items: [
-            { text: '欢迎来到我的博客', link: '/posts/hello-world' }
+            { text: '欢迎来到我的博客', link: '/posts/hello-world' },
+            { text: '我的技能栈', link: '/posts/skills' }
           ]
         }
       ]
