@@ -38,6 +38,17 @@ export default defineConfig({
             { text: '欢迎来到我的博客', link: '/posts/hello-world' },
             { text: '我的技能栈', link: '/posts/skills' }
           ]
+        },
+        {
+          text: 'QEMU 学嵌入式 Linux',
+          items: [
+            { text: '一、环境与第一次启动', link: '/posts/qemu-linux-01-env' },
+            { text: '二、读懂启动日志', link: '/posts/qemu-linux-02-boot-log' },
+            { text: '三、存储与网络实地验证', link: '/posts/qemu-linux-03-storage-network' },
+            { text: '四、给虚拟机装一块硬盘', link: '/posts/qemu-linux-04-disk-persistence' },
+            { text: '五、搭建 Linux 构建环境', link: '/posts/qemu-linux-05-docker-build' },
+            { text: '六、Buildroot 到底做了什么', link: '/posts/qemu-linux-06-buildroot' }
+          ]
         }
       ],
       '/cpp/': [
