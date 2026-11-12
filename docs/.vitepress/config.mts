@@ -53,7 +53,9 @@ export default defineConfig({
             { text: '三、存储与网络实地验证', link: '/posts/qemu-linux-03-storage-network' },
             { text: '四、给虚拟机装一块硬盘', link: '/posts/qemu-linux-04-disk-persistence' },
             { text: '五、搭建 Linux 构建环境', link: '/posts/qemu-linux-05-docker-build' },
-            { text: '六、Buildroot 到底做了什么', link: '/posts/qemu-linux-06-buildroot' }
+            { text: '六、Buildroot 到底做了什么', link: '/posts/qemu-linux-06-buildroot' },
+            { text: '七、从 .c 到 .ko：内核模块与字符设备驱动', link: '/posts/qemu-linux-07-module-driver' },
+            { text: '八、用 U-Boot 引导自己构建的内核', link: '/posts/qemu-linux-08-uboot' }
           ]
         }
       ],

@@ -16,6 +16,8 @@
 - [四、给虚拟机装一块硬盘](./qemu-linux-04-disk-persistence)
 - [五、搭建 Linux 构建环境](./qemu-linux-05-docker-build)
 - [六、Buildroot 到底做了什么](./qemu-linux-06-buildroot)
+- [七、从 .c 到 .ko：内核模块与字符设备驱动](./qemu-linux-07-module-driver)
+- [八、用 U-Boot 引导自己构建的内核](./qemu-linux-08-uboot)
 
 ### 其他
 
