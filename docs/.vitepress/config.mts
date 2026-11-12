@@ -40,6 +40,12 @@ export default defineConfig({
           ]
         },
         {
+          text: '硬件基础',
+          items: [
+            { text: '从主板到设备树：硬件是怎么连起来的', link: '/posts/computer-architecture' }
+          ]
+        },
+        {
           text: 'QEMU 学嵌入式 Linux',
           items: [
             { text: '一、环境与第一次启动', link: '/posts/qemu-linux-01-env' },

@@ -4,6 +4,10 @@
 
 ## 最新文章
 
+### 硬件基础
+
+- [从主板到设备树：一台计算机的硬件是怎么连起来的](./computer-architecture)
+
 ### QEMU 学嵌入式 Linux 系列
 
 - [一、环境与第一次启动](./qemu-linux-01-env)
